@@ -1,0 +1,33 @@
+h1,h2 {
+    color: brown;
+    background-color: rgba(141, 140, 140, 0.589);
+    text-align: center;
+}
+body {
+    background-color: rgba(135, 245, 208, 0.733);
+}
+button {
+    background-color: rgba(49, 187, 111, 0.795);
+}
+a {
+    color: red;
+}
+/* unvisited link */
+a:link {
+    color: red;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: green;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: hotpink;
+  }
+  
+  /* selected link */
+  a:active {
+    color: blue;
+  }
